@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Mobile Web** [@Pluralisight](https://pluralsight.com)
 - 💬 Ask me about **Python, Django, Flask, JavaScript, React, Angular, Vue, NodeJS**
 - 📫 How to reach me: **sakachemela@gmail.com**
-- 😄 Pronouns: he/him
+- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
 
 <h3 align="left">Feel free to connect with me:</h3>
