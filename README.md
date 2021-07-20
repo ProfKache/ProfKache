@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Google Africa Developer Scholarship (#GADS2021)**
-- 🌱 I’m currently learning **Mobile Web Specialist** [@Pluralisight](https://pluralsight.com)
+- 🌱 I’m currently learning **Mobile Web** [@Pluralisight](https://pluralsight.com)
 - 💬 Ask me about **Python, Django, Flask, JavaScript, React, Angular, Vue, NodeJS**
 - 📫 How to reach me: **sakachemela@gmail.com**
 - 😄 Pronouns: he/him
