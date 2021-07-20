@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
-<h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications at the [Ministry of Health](https://www.moh.go.tz)</h3>
+<h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=profkache&label=Profile%20views&color=0e75b6&style=flat" alt="profkache" /> </p>
 
 - 🔭 I’m currently working on **Google Africa Developer Scholarship(#GADS2021)**
