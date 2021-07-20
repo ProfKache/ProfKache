@@ -4,7 +4,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=profkache" alt="profkache" /></a> </p> -->
 
 
-- 🔭 I’m currently working on **Google Africa Developer Scholarship(#GADS2021)**
+- 🔭 I’m currently working on **Google Africa Developer Scholarship (#GADS2021)**
 - 🌱 I’m currently learning **Mobile Web Specialist** [@Pluralisight](https://pluralsight.com)
 - 💬 Ask me about **Python, Django, Flask, JavaScript, React, Angular, Vue, NodeJS**
 - 📫 How to reach me: **sakachemela@gmail.com**
