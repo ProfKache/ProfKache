@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Google Africa Developer Scholarship (#GADS2021)**
 - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)
-- 💬 Ask me about **Python, Django, Flask, JavaScript, React, Angular, Vue, NodeJS**
+- 💬 Ask me about **Python, Django, Flask, JavaScript, React, Angular, Vue, NodeJS, Docker**
 - 📫 How to reach me: **sakachemela@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
