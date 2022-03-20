@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
-- 🔭 I’m currently working on **ALX Software Engineering Programme**
-- 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)
-- 💬 Ask me about **Python, Django, Flask, JavaScript, React, Angular, Vue, NodeJS, Docker**
+- 🔭 I’m currently working on **ALX Software Engineering Programme (12months)**
+<!-- - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)-->
+- 💬 Ask me about **Python, Django, Flask, JavaScript, Typescript, Go, React, React Native, Angular, Vue, NodeJS, Docker**
 - 📫 How to reach me: **sakachemela@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
