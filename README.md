@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
-- 🔭 I’m currently working on **Google Africa Developer Scholarship (#GADS2021)**
+- 🔭 I’m currently working on **ALX Software Engineering Programme**
 - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)
 - 💬 Ask me about **Python, Django, Flask, JavaScript, React, Angular, Vue, NodeJS, Docker**
 - 📫 How to reach me: **sakachemela@gmail.com**
