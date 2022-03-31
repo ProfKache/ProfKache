@@ -22,6 +22,9 @@
 <a href="https://www.programiz.com/java-programming" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="ruby" width="40" height="40"/>
 </a>
+<a href="https://devdocs.io/c/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C programming Language" width="40" height="40"/>
+</a>
 </p>
 
 <!--
