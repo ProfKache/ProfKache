@@ -25,6 +25,9 @@
 <a href="https://devdocs.io/c/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C programming Language" width="40" height="40"/>
 </a>
+<a href="https://linuxconfig.org/bash-scripting-tutorial-for-beginners#:~:text=Bash%20is%20a%20command%20language,or%20non%2Dinteractive%20command%20execution." target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Scripting image" width="40" height="40"/>
+</a>
 </p>
 
 <!--
