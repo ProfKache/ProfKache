@@ -37,7 +37,7 @@
 
 <h2>⚡ My Stats :
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ProfKache&show_icons=true&line_height=33&count_private=true&theme=dark" alt="1806exe's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ProfKache&show_icons=true&line_height=33&count_private=true&theme=dark" alt="ProfKache's GitHub Stats" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfKache&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </div>
