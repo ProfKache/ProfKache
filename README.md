@@ -3,7 +3,7 @@
 
 - 🔭 Currently: **A Software Engineer Student at ALX (Holberton)**
 <!-- - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)-->
-- 💬 Ask me about **Python, Django, Flask, JavaScript, Typescript, Go, React, React Native, Angular, Vue, NodeJS, Docker**
+- 💬 Ask me about **Python, C, Django, Flask, JavaScript, Typescript, Go, React, React Native, Angular, Vue, NodeJS, Docker**
 - 📫 How to reach me: **sakachemela@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
