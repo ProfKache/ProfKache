@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
-- 🔭 Currently: **A Software Engineer Student at ALX (Holberton)**
+- 🔭 Currently: **Learning Rust programming language**
+- Previous: **A Software Engineer Student at ALX (Holberton)**
 <!-- - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)-->
 - 💬 Ask me about **Python, C, Django, Flask, JavaScript, Typescript, Go, React, React Native, Angular, Vue, NodeJS, Docker**
 - 📫 How to reach me: **sakachemela@gmail.com**
