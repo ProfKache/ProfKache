@@ -1,11 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ProfKache&color=green)
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
-#
-![](https://komarev.com/ghpvc/?username=ProfKache&color=green)
-
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
-
-![](https://komarev.com/ghpvc/?username=ProfKache&color=green)
 
 <!-- - 🔭 Currently: **Learning Rust programming language** -->
 <!-- - Previous: **A Software Engineer Student at ALX (Holberton)** --> 
