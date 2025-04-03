@@ -10,14 +10,14 @@
 - ⚡ Fun fact: **I zig when everyone else zags...**
 
 <h3 align="left">Feel free to connect with me:</h3>
-<p align="left">
+<!-- <p align="left"> -->
   <!-- [![Mail](https://img.shields.io/badge/-Say%20Hi!-green?style=for-the-badge&logo=gmail)](mailto:ilakozejumanne@gmail.com) -->
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/salimkachemela/)
   [![Twitter](https://img.shields.io/badge/-Twitter-green?style=for-the-badge&logo=twitter)](https://twitter.com/ProfKache)
 <!-- <a href="https://twitter.com/ProfKache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="profkache" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salimkachemela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salimkachemela" height="30" width="40" /></a>
 <a href="https://instagram.com/prof.kache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prof.kache" height="30" width="40" /></a><br> -->
-</p>
+<!-- </p> -->
 
 <h3 align="left">Languages | Framework | Tools:</h3>
 <h5>Programming Languages:</h5>
