@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
+![](https://komarev.com/ghpvc/?username=cozej4&color=green)
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
 <!-- - 🔭 Currently: **Learning Rust programming language** -->
