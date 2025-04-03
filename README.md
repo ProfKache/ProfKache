@@ -9,6 +9,9 @@
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
 
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/salimkachemela/)
+  [![Twitter](https://img.shields.io/badge/-Twitter-green?style=for-the-badge&logo=twitter)](https://twitter.com/ProfKache)
+
 <h3 align="left">Feel free to connect with me:</h3>
 <!-- <p align="left"> -->
   <!-- [![Mail](https://img.shields.io/badge/-Say%20Hi!-green?style=for-the-badge&logo=gmail)](mailto:ilakozejumanne@gmail.com) -->
