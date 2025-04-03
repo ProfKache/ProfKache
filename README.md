@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ProfKache&color=green)
+[![committers.top badge](https://user-badge.committers.top/tanzania/ProfKache.svg)](https://user-badge.committers.top/tanzania/ProfKache)
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
