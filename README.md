@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
-- 🔭 Currently: **Learning Rust programming language**
-- Previous: **A Software Engineer Student at ALX (Holberton)**
+<!-- - 🔭 Currently: **Learning Rust programming language** -->
+<!-- - Previous: **A Software Engineer Student at ALX (Holberton)** --> 
 <!-- - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)-->
-- 💬 Ask me about **Python, C, Django, Flask, JavaScript, Typescript, Go, React, React Native, Angular, Vue, NodeJS, Docker**
+- 💬 Ask me about **Python, Rust, Django, C, Flask, JavaScript, Typescript, Go, React, React Native, Angular, Vue, NodeJS, Docker**
 - 📫 How to reach me: **sakachemela@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ProfKache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="profkache" height="30" width="40" /></a>
+  <!-- [![Mail](https://img.shields.io/badge/-Say%20Hi!-green?style=for-the-badge&logo=gmail)](mailto:ilakozejumanne@gmail.com) -->
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/salimkachemela/)
+  [![Twitter](https://img.shields.io/badge/-Twitter-green?style=for-the-badge&logo=twitter)](https://twitter.com/ProfKache)
+<!-- <a href="https://twitter.com/ProfKache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="profkache" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salimkachemela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salimkachemela" height="30" width="40" /></a>
-<a href="https://instagram.com/prof.kache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prof.kache" height="30" width="40" /></a><br>
+<a href="https://instagram.com/prof.kache" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prof.kache" height="30" width="40" /></a><br> -->
 </p>
 
 <h3 align="left">Languages | Framework | Tools:</h3>
