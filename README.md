@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
+-
+![](https://komarev.com/ghpvc/?username=ProfKache&color=green)
+
 <!-- - 🔭 Currently: **Learning Rust programming language** -->
 <!-- - Previous: **A Software Engineer Student at ALX (Holberton)** --> 
 <!-- - 🌱 I’m currently pursuing **Mobile Web Specialist** track on [Pluralisight](https://pluralsight.com)-->
@@ -9,8 +12,6 @@
 - 📫 How to reach me: **sakachemela@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
-
-![](https://komarev.com/ghpvc/?username=ProfKache&color=green)
 
 ### Feel free to connect with me:
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/salimkachemela/)
