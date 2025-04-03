@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 , I'm Salim Kachemela</h1>
-![](https://komarev.com/ghpvc/?username=cozej4&color=green)
 <h3 align="center">A Fullstack developer, focusing on web, mobile, and desktop applications.</h3>
 
 <!-- - 🔭 Currently: **Learning Rust programming language** -->
@@ -9,6 +8,8 @@
 - 📫 How to reach me: **sakachemela@gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I zig when everyone else zags...**
+
+![](https://komarev.com/ghpvc/?username=cozej4&color=green)
 
 ### Feel free to connect with me:
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/salimkachemela/)
